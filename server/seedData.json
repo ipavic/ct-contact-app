@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Paul",
+      "surname": "Smith",
+      "email": "paul@gmail.com",
+      "category": "private"
+    },
+    {
+      "id": 2,
+      "name": "Leanne",
+      "surname": "Graham",
+      "email": "leanne@gmail.com",
+      "category": "business"
+    },
+    {
+      "id": 3,
+      "name": "Ervin",
+      "surname": "Howell",
+      "email": "ervin@gmail.com",
+      "category": "private"
+    },
+    {
+      "id": 4,
+      "name": "Clementine",
+      "surname": "Bauch",
+      "email": "clementine@gmail.com",
+      "category": "business"
+    },
+    {
+      "id": 5,
+      "name": "Patricia",
+      "surname": "Lebsack",
+      "email": "patricia@gmail.com",
+      "category": "business"
+    },
+    {
+      "id": 6,
+      "name": "Chelsey",
+      "surname": "Dietrich",
+      "email": "chelsey@gmail.com",
+      "category": "private"
+    }
+  ]
+}
